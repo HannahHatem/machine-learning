@@ -1,0 +1,5 @@
+{
+  "description": "nothing to find",
+  "input_args": ["./file_a.txt", ""],
+  "expected_output": 0
+}

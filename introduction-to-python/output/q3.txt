@@ -1,0 +1,15 @@
+test case 1
+output:	[('a', 6), ('b', 4)]
+
+test case 2
+output:	[('a', 2)]
+
+test case 3
+output:	[]
+
+test case 4
+output:	[('a', 3), ('b', 3), ('s', 3), ('3', 3), ('f', 2)]
+
+test case 5
+output:	[]
+

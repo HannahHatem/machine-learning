@@ -1,0 +1,5 @@
+{
+  "description": "find macHine",
+  "input_args": ["./file_a.txt", "macHine"],
+  "expected_output": 1
+}

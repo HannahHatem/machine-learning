@@ -1,0 +1,4 @@
+{
+  "description": "find ROBOT",
+  "input_args": ["./file_b.txt", "ROBOT"]
+}

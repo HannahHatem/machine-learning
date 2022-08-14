@@ -1,0 +1,15 @@
+test case 1
+output:	0
+
+test case 2
+output:	1
+
+test case 3
+output:	2
+
+test case 4
+output:	0
+
+test case 5
+output:	10
+

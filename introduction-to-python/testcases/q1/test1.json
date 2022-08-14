@@ -1,0 +1,4 @@
+{
+  "input_args": ["Hello", "olssv"],
+  "expected_output": 7
+}

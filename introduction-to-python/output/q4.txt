@@ -1,0 +1,18 @@
+test case 1
+output:	False
+
+test case 2
+output:	True
+
+test case 3
+output:	True
+
+test case 4
+output:	False
+
+test case 5
+output:	True
+
+test case 6
+output:	False
+

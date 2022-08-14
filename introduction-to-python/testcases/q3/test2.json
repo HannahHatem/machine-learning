@@ -1,0 +1,4 @@
+{
+  "input_args": ["abas"],
+  "expected_output": "[('a', 2)]"
+}
