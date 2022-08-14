@@ -3,7 +3,7 @@ This repo holds indvidual assignments from my university machine learning course
 
 Course outline:
   - Intelligent Agents
-  - Search
+  - Search Algorithms
   - Constraint satisfaction problems 
   - Games
   - Markov decision process
